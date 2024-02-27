@@ -1,0 +1,28 @@
+li{
+    
+    font-size: 20px;
+    font-family: 'Concert One', sans-serif;
+    list-style: none;
+    color: rgba(0, 0, 0, 0.548);
+    transition: 0.5s;
+
+}
+ul{
+    padding-left: 0;
+}
+.header{
+    width:600px;
+    background-color: rgba(255, 255, 255, 0.793);
+    display:flex;
+    margin: auto;
+    justify-content: space-around;
+    border-radius: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+li:hover{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+
+}
